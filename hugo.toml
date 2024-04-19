@@ -6,5 +6,5 @@ theme = 'ananke'
 [menus]
   [[menus.main]]
     name = 'Products'
-    url = '/products'
+    pageRef = '/products'
     weight = 20
