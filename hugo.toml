@@ -1,0 +1,10 @@
+baseURL = 'https://www.sotai.co/'
+languageCode = 'en-us'
+title = 'Sotai'
+theme = 'ananke'
+
+[menus]
+  [[menus.main]]
+    name = 'Products'
+    url = '/products'
+    weight = 20
