@@ -21,7 +21,7 @@ Crue
 ![This is a image](images/SotaiSkipper.jpeg)  
 丸山 毅  
 1978年生まれ  
-アトピー標準治療の副作用で悲惨な青春  
+アトピー標準治療の副作用で灰色の青春  
 Senior Software Developer  
 慶應義塾大学卒業  
 
