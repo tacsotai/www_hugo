@@ -6,6 +6,6 @@ draft = false
 
 アプリを起動してカメラをかざすだけ
 ## 美味しいカボチャ
-![OK](../images/OK.png)  
+![OK](/images/OK.png)  
 ## まずいカボチャ
-![NG](../images/NG.png)  
+![NG](/images/NG.png)  
