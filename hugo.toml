@@ -8,3 +8,7 @@ theme = 'ananke'
     name = 'Products'
     url = '/products/'
     weight = 20
+  [[menus.main]]
+    name = 'Docs'
+    url = '/docs/'
+    weight = 20
