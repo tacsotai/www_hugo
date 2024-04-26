@@ -54,7 +54,7 @@ https://172.217.26.227 = https://www.google.co.jp
 
 ### 静的サイト
 HTML, JavaScript, スタイルシートなどの[リソース](#リソース)をWebサーバーの指定フォルダに置くことで構成される。  
-![静的サイト](/images/static-site.png)
+![静的サイト](/images/web-basic/static-site.png)
 - 簡単
 - 低コスト
 - 高速
@@ -68,7 +68,7 @@ HTML, JavaScript, スタイルシートなどの[リソース](#リソース)を
 ### 動的サイト
 [Webサーバー](https://ja.wikipedia.org/wiki/Web%E3%82%B5%E3%83%BC%E3%83%90)から[Servert](https://ja.wikipedia.org/wiki/Java_Servlet)（Javaで作られたサーバー）などに処理を委譲してその処理結果をやはりHTMLで応答するという処理方式を採用している。通常DBを用いて状態を管理する。  
 
-![静的サイト](/images/dynamic-site.png)
+![静的サイト](/images/web-basic/dynamic-site.png)
 例: Google、天気サイト、証券取引サイト
 
 #### アプリ
@@ -82,5 +82,5 @@ HTML, JavaScript, スタイルシートなどの[リソース](#リソース)を
   "password": "hogehoge"
 }
 ```
-![アプリ](/images/app.png)
+![アプリ](/images/web-basic/app.png)
 例: Facebook, 地図アプリ, 電話アプリ
