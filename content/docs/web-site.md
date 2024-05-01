@@ -18,7 +18,7 @@ draft = false
 それを[Github](https://ja.wikipedia.org/wiki/GitHub)というサイトを通じて[Cloudflare](https://ja.wikipedia.org/wiki/Cloudflare)というサービスの１つであるPagesというWebサーバーにアップロードしている。
 ![サイト構成](/images/web-site/site-structure.png)
 
-## Hugo
+## [Hugo](https://gohugo.io/)
 Hugoは[Markdown](../markup/#markdown)を[HTML](../markup/#html)に変換する。内部にWebサーバーを内包しており、作業者が編集状況をHTMLで確認できる。  
 ![Hugo](/images/web-site/hugo.png)
 
