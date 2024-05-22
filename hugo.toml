@@ -12,3 +12,7 @@ theme = 'ananke'
     name = 'Docs'
     url = '/docs/'
     weight = 20
+  [[menus.main]]
+    name = 'About'
+    url = '/about/'
+    weight = 20
